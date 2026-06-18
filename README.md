@@ -12,9 +12,9 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO 
-sudo chmod +x abhishek.sh
-./abhishek.sh
+curl -LO https://raw.githubusercontent.com/bhoomikabhoomi8197-web/bhoo/refs/heads/main/README.sh 
+sudo chmod +x README.sh 
+./ README.sh 
 ```
 
 
