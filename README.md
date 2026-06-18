@@ -20,9 +20,9 @@ sudo chmod +x README.sh
 
 ```
 
-curl -LO 
-sudo chmod +x abhishek1.sh
-./abhishek1.sh
+curl -LO https://raw.githubusercontent.com/bhoomikabhoomi8197-web/bhoo/refs/heads/main/README1.sh 
+sudo chmod +x README1.sh 
+./README1.sh 
 
 ```
 
